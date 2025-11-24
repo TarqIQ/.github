@@ -3,9 +3,9 @@
 Open-source tools at the intersection of biomedical knowledge graphs, chemical reaction extraction, and AI-driven reasoning.
 
 ## Repositories
-- **[MedKG](https://github.com/TarqIQ/MedKG)** — Biomedical knowledge graph integrating multi-omics, drug, disease, and pathway associations.  
 - **[BioMed-KAI](https://github.com/TarqIQ/BioMed-KAI)** — Knowledge-augmented intelligence framework for biomedical reasoning and graph-enhanced LLM workflows.  
 - **[RxNExtract](https://github.com/TarqIQ/RxNExtract)** — LLM-based extraction of chemical reaction procedures into structured reaction data.  
+- **[MedKG](https://github.com/TarqIQ/MedKG)** — Biomedical knowledge graph integrating multi-omics, drug, disease, and pathway associations.  
 - **[ChemInstruct](https://github.com/TarqIQ/ChemInstruct)** — Toolkit for chemical NER model training, evaluation, and benchmarking.
 
 ## Mission
